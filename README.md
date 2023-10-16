@@ -1,5 +1,5 @@
 # Introduction
-<img align="center" alt="Coding" width="100%" height="330px" src="https://i.imgur.com/zDBCbGs.png"/>
+<img align="center" alt="Coding" width="100%" height="550px" src="https://i.imgur.com/zDBCbGs.png"/>
 ##  API Documentation
 
  
